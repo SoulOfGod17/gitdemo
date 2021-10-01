@@ -4,6 +4,7 @@ using namespace std;
 
 #define mod 1000000007
 
+//method to call binary recursion
 int BinaryExpoRecursion(int x, int n)
 {
     if (n == 0)
